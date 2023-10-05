@@ -1,0 +1,194 @@
+{
+    "Breakfast": {
+        "North Indian": [
+            {
+                "name": "Samosa",
+                "quantity": "1",
+                "price": 20,
+                "image": "images/samosa.png"
+            },
+            {
+                "name": "Kachori",
+                "quantity": "1",
+                "price": 20,
+                "image": "images/kachori.png"
+            },
+            {
+                "name": "Jalebi",
+                "quantity": "1kg",
+                "price": 180,
+                "image": "images/jalebi.png"
+            },
+            {
+                "name": "Aaloo Paratha",
+                "quantity": "2",
+                "price": 80,
+                "image": "images/aaloparatha.png"
+            }
+        ],
+        "South Indian": [
+            {
+                "name": "Idli",
+                "quantity": "4 pieces",
+                "price": 100,
+                "image": "images/idli.png"
+            },
+            {
+                "name": "Dosa",
+                "quantity": "1",
+                "price": 150,
+                "image": "images/dosa.png"
+            },
+            {
+                "name": "Upma",
+                "quantity": "1",
+                "price": 120,
+                "image": "images/upma.png"
+            }
+        ],
+        "Chinese": [
+            {
+                "name": "Noodles",
+                "quantity": "1 plate",
+                "price": 200,
+                "image": "images/noodles.png"
+            },
+            {
+                "name": "Manchurian",
+                "quantity": "1 plate",
+                "price": 220,
+                "image": "images/manchurian.png"
+            },
+            {
+                "name": "Momos",
+                "quantity": "3 pieces",
+                "price": 150,
+                "image": "images/momos.png"
+            }
+        ],
+        "Bengali": [
+            {
+                "name": "Rasgulla",
+                "quantity": "2 pieces",
+                "price": 40,
+                "image": "images/rasgulla.png"
+            },
+            {
+                "name": "Machher Jhol",
+                "quantity": "1 plate",
+                "price": 250,
+                "image": "images/biryani.png"
+            },
+            {
+                "name": "Shorshe Ilish",
+                "quantity": "1 piece",
+                "price": 180,
+                "image": "images/bengali.png"
+            }
+        ]
+    },
+    "Lunch": {
+        "North Indian": [
+            {
+                "name": "Chole Bhature",
+                "quantity": "1 plate",
+                "price": 300,
+                "image": "images/cholebhature.png"
+            },
+            {
+                "name": "Paneer Tikka",
+                "quantity": "250gm",
+                "price": 350,
+                "image": "images/paneertikka.png"
+            }
+        ],
+        "South Indian": [
+            {
+                "name": "Biryani",
+                "quantity": "1 plate",
+                "price": 280,
+                "image": "images/biryani.png"
+            },
+            {
+                "name": "Idli Vada",
+                "quantity": "1 Plate",
+                "price": 150,
+                "image": "images/idlivada.png"
+            }
+        ],
+        "Rajasthani": [
+            {
+                "name": "Daal Bati",
+                "quantity": "1",
+                "price": 280,
+                "image": "images/daalbaati.webp"
+            },
+            {
+                "name": "Bati",
+                "quantity": "1",
+                "price": 280,
+                "image": "images/idlivada.png"
+            }
+        ]
+    },
+    "Dinner": {
+        "North Indian": [
+            {
+                "name": "Shahi Thali",
+                "quantity": "250gm",
+                "price": 320,
+                "image": "images/shahithali.png"
+            },
+            {
+                "name": "Dal Makhani",
+                "quantity": "250gm",
+                "price": 280,
+                "image": "images/dalmakhni.png"
+            }
+        ],
+        "South Indian": [
+            {
+                "name": "Rasam",
+                "quantity": "1",
+                "price": 130,
+                "image": "images/shahithali.png"
+            },
+            {
+                "name": "Coconut Rice",
+                "quantity": "400gm",
+                "price": 180,
+                "image": "images/dalmakhni.png"
+            }
+        ]
+    },
+    "Special": {
+        "North Indian": [
+            {
+                "name": "Rasgulla",
+                "quantity": "1kg",
+                "price": 400,
+                "image": "images/rasgulla.png"
+            },
+            {
+                "name": "Shrikhand",
+                "quantity": "250gm",
+                "price": 350,
+                "image": "images/shrikhand.png"
+            }
+        ],
+        "South Indian": [
+            {
+                "name": "Avial",
+                "quantity": "1",
+                "price": 300,
+                "image": "images/avial.png"
+            },
+            {
+                "name": "Kootu",
+                "quantity": "1",
+                "price": 180,
+                "image": "images/kootu.png"
+            }
+        ]
+    }
+}
